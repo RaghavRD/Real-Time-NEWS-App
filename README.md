@@ -42,5 +42,4 @@ This Angular application provides users with real-time news updates using the la
 ## Lessons Learned
 - **API Integration:** Learned how to integrate a third-party API (News API) into an Angular application.
 - **Component Design:** Gained experience in designing and implementing reusable components for displaying news articles.
-- **Responsive Design:** Learned how to create a responsive design that works well on both desktop and mobile devices.
 
