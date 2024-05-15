@@ -21,7 +21,7 @@ This Angular application provides users with real-time news updates using the la
 ![news app 3](https://github.com/RaghavRD/Real-Time-NEWS-App/assets/108291726/8a779e12-4c16-4fb6-9267-ad782bb190c5)\
 ![news app 4](https://github.com/RaghavRD/Real-Time-NEWS-App/assets/108291726/6d0c54e9-87cc-45cb-9f95-bfb004d72421)\
 ![news app 5](https://github.com/RaghavRD/Real-Time-NEWS-App/assets/108291726/498ccc8e-ea20-4b6b-99cc-052d0858de70)\
-![news app 6](https://github.com/RaghavRD/Real-Time-NEWS-App/assets/108291726/481e55db-2797-4cb6-9c15-44598ba50839)\
+![news app 6](https://github.com/RaghavRD/Real-Time-NEWS-App/assets/108291726/481e55db-2797-4cb6-9c15-44598ba50839)
 
 
 ## Installation
